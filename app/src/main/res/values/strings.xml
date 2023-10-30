@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">EmergencyAlert</string>
+    <string name="login"></string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="btnIniciar">Iniciar</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="app">Emergency Alert</string>
+    <string name="invitado">Modo Invitado</string>
+    <string name="menu">MENÚ DE OPCIONES</string>
+    <string name="reportar">Reporte</string>
+    <string name="llamar">Llamadas</string>
+    <string name="alerta">Alertar</string>
+    <string name="informe">Informe</string>
+    <string name="preguntas">Preguntas Frecuentes</string>
+    <string name="recomendaciones">Recomendaciones</string>
+    <string name="reporte">REGISTRAR REPORTE</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellidos</string>
+    <string name="telefono">Telefono</string>
+    <string name="descripcion">Descripción</string>
+    <string name="ubicacion">Ubicación</string>
+    <string name="btnubi">Registrar Ubicación</string>
+    <string name="btnaceptar">Aceptar</string>
+    <string name="regubi">REGISTRAR UBICACIÓN</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="bomberos">Bomberos</string>
+    <string name="policia">Policia</string>
+    <string name="ambulancia">Ambulancia</string>
+    <string name="cruz">Cruz Roja</string>
+    <string name="serenazgo">Serenazgo</string>
+    <string name="desastres">Desastres Naturales</string>
+</resources>

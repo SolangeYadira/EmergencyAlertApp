@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059071900491",
+    "project_id": "emergency-alert-d28f3",
+    "storage_bucket": "emergency-alert-d28f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059071900491:android:bdbb5fb9ee289cb79706ce",
+        "android_client_info": {
+          "package_name": "com.example.emergencyalert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeRSVk0T0OC6LWuETM2yz9YWPoBU_B-SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
